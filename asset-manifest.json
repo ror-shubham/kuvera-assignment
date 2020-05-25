@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kuvera-assignment/static/css/main.01384089.chunk.css",
+    "main.js": "/kuvera-assignment/static/js/main.46ae03bd.chunk.js",
+    "main.js.map": "/kuvera-assignment/static/js/main.46ae03bd.chunk.js.map",
+    "runtime-main.js": "/kuvera-assignment/static/js/runtime-main.1ad17182.js",
+    "runtime-main.js.map": "/kuvera-assignment/static/js/runtime-main.1ad17182.js.map",
+    "static/js/2.7e93c443.chunk.js": "/kuvera-assignment/static/js/2.7e93c443.chunk.js",
+    "static/js/2.7e93c443.chunk.js.map": "/kuvera-assignment/static/js/2.7e93c443.chunk.js.map",
+    "index.html": "/kuvera-assignment/index.html",
+    "precache-manifest.74da7071636f2c1c6db1d0d7e808c4d4.js": "/kuvera-assignment/precache-manifest.74da7071636f2c1c6db1d0d7e808c4d4.js",
+    "service-worker.js": "/kuvera-assignment/service-worker.js",
+    "static/css/main.01384089.chunk.css.map": "/kuvera-assignment/static/css/main.01384089.chunk.css.map",
+    "static/js/2.7e93c443.chunk.js.LICENSE.txt": "/kuvera-assignment/static/js/2.7e93c443.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad17182.js",
+    "static/js/2.7e93c443.chunk.js",
+    "static/css/main.01384089.chunk.css",
+    "static/js/main.46ae03bd.chunk.js"
+  ]
+}
